@@ -1,0 +1,144 @@
+<processOrderRequest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="fm.avery.com/ticket">
+    <requestType>VALIDATE_PRODUCTION_DATA</requestType>
+    <requestOptions>
+        <includeNonPrintingObjects>false</includeNonPrintingObjects>
+        <includePasteboardObjects>false</includePasteboardObjects>
+        <includeInformationalObjects>false</includeInformationalObjects>
+    </requestOptions>
+    <orderDetails orderNumber="PXHK-KKM0UM" poNumber="VF20210601" invoiceAdd="testtest" deliveryAdd="RGL ComplexGazipur04" submissionDate="2021-10-28" requestedDeliveryDate="2021-11-11">
+        <ticketProject id="21210528193733600" customerDetails="test" version="0.00">
+            <status>TEST</status>
+            <item itemId="1-292072-002-00" averyItemId="1-292072-002-00" customerItemId="7BAVT15" complexCareLabel="false">
+                <skuSet>
+                    <sku id="1-1">
+                        <ticketSide>FRONT_AND_BACK</ticketSide>
+                        <ticketData>
+                            <fieldData fieldId="800000000000106772">114-CAREBUNDLEPO</fieldData>
+                            <fieldData fieldId="11180423053115466">V_SB_AVDN_0231658_VF20210601_7BAVT15_0_7836231_VU2</fieldData>
+                            <fieldData fieldId="800000000000106605">26-MATLDESC1</fieldData>
+                            <fieldData fieldId="800000000000106653">58-MATSIZE</fieldData>
+                            <fieldData fieldId="800000000000106662">10 COSTAUD</fieldData>
+                            <fieldData fieldId="800000000000106600">21-MATPRT</fieldData>
+                            <fieldData fieldId="800000000000106664">70MSRP</fieldData>
+                            <fieldData fieldId="11150930081108344">886944675463</fieldData>
+                        </ticketData>
+                    </sku>
+                    <sku id="2-2">
+                        <ticketSide>FRONT_AND_BACK</ticketSide>
+                        <ticketData>
+                            <fieldData fieldId="800000000000106772">X</fieldData>
+                            <fieldData fieldId="11180423053115466">V_SB_AVDN_0231658_VF20210601_7BAVT15_0_7836231_VU2</fieldData>
+                            <fieldData fieldId="800000000000106605">X</fieldData>
+                            <fieldData fieldId="800000000000106653">X</fieldData>
+                            <fieldData fieldId="800000000000106662">10 COSTAUD</fieldData>
+                            <fieldData fieldId="800000000000106600">X</fieldData>
+                            <fieldData fieldId="800000000000106664">X</fieldData>
+                            <fieldData fieldId="11150930081108344">886944675388</fieldData>
+                        </ticketData>
+                    </sku>
+                    <sku id="3-3">
+                        <ticketSide>FRONT_AND_BACK</ticketSide>
+                        <ticketData>
+                            <fieldData fieldId="800000000000106772">xxxxxxxxxxxxxxxxxxxxxxxxx</fieldData>
+                            <fieldData fieldId="11180423053115466">V_SB_AVDN_0231658_VF20210601_7BAVT15_0_7836231_VU2</fieldData>
+                            <fieldData fieldId="800000000000106605">xxxxxxxxxxxxxxx</fieldData>
+                            <fieldData fieldId="800000000000106653">xxxxxxxxxxxx</fieldData>
+                            <fieldData fieldId="800000000000106662">10 COSTAUD</fieldData>
+                            <fieldData fieldId="800000000000106600">xxxxxxxxxx</fieldData>
+                            <fieldData fieldId="800000000000106664">xxxxxxx</fieldData>
+                            <fieldData fieldId="11150930081108344">886944675463</fieldData>
+                        </ticketData>
+                    </sku>
+                    <sku id="4-4">
+                        <ticketSide>FRONT_AND_BACK</ticketSide>
+                        <ticketData>
+                            <fieldData fieldId="800000000000106772">114-CARE-BUNDLE-POXXXXXXX</fieldData>
+                            <fieldData fieldId="11180423053115466">V_SB_AVDN_0231658_VF20210601_7BAVT15_0_7836231_VU2</fieldData>
+                            <fieldData fieldId="800000000000106605">26-MATLDESC1XXX</fieldData>
+                            <fieldData fieldId="800000000000106653">58-PRINT-SIZ</fieldData>
+                            <fieldData fieldId="800000000000106662">10 COSTAUD</fieldData>
+                            <fieldData fieldId="800000000000106600">21-STYL-CO</fieldData>
+                            <fieldData fieldId="800000000000106664">70-MSRP</fieldData>
+                            <fieldData fieldId="11150930081108344">886944675388</fieldData>
+                        </ticketData>
+                    </sku>
+                    <sku id="5-5">
+                        <ticketSide>FRONT_AND_BACK</ticketSide>
+                        <ticketData>
+                            <fieldData fieldId="800000000000106772">MRY</fieldData>
+                            <fieldData fieldId="11180423053115466">V_SB_AVDN_0231658_VF20210601_7BAVT15_0_7836231_VU2</fieldData>
+                            <fieldData fieldId="800000000000106653">MRY</fieldData>
+                            <fieldData fieldId="800000000000106662">10 COSTAUD</fieldData>
+                            <fieldData fieldId="800000000000106600">MRY</fieldData>
+                            <fieldData fieldId="11150930081108344">886944675463</fieldData>
+                        </ticketData>
+                    </sku>
+                    <sku id="6-6">
+                        <ticketSide>FRONT_AND_BACK</ticketSide>
+                        <ticketData>
+                            <fieldData fieldId="800000000000106772">114-CAREBUNDLEPO</fieldData>
+                            <fieldData fieldId="11180423053115466">V_SB_AVDN_0231658_VF20210601_7BAVT15_0_7836331_VU2</fieldData>
+                            <fieldData fieldId="800000000000106605">26-MATLDESC1</fieldData>
+                            <fieldData fieldId="800000000000106653">58-MATSIZE</fieldData>
+                            <fieldData fieldId="800000000000106662">10 COSTAUD</fieldData>
+                            <fieldData fieldId="800000000000106600">21-MATPRT</fieldData>
+                            <fieldData fieldId="800000000000106664">70MSRP</fieldData>
+                            <fieldData fieldId="11150930081108344">886944675388</fieldData>
+                        </ticketData>
+                    </sku>
+                    <sku id="7-7">
+                        <ticketSide>FRONT_AND_BACK</ticketSide>
+                        <ticketData>
+                            <fieldData fieldId="800000000000106772">X</fieldData>
+                            <fieldData fieldId="11180423053115466">V_SB_AVDN_0231658_VF20210601_7BAVT15_0_7836331_VU2</fieldData>
+                            <fieldData fieldId="800000000000106605">X</fieldData>
+                            <fieldData fieldId="800000000000106653">X</fieldData>
+                            <fieldData fieldId="800000000000106662">10 COSTAUD</fieldData>
+                            <fieldData fieldId="800000000000106600">X</fieldData>
+                            <fieldData fieldId="800000000000106664">X</fieldData>
+                            <fieldData fieldId="11150930081108344">886944675463</fieldData>
+                        </ticketData>
+                    </sku>
+                    <sku id="8-8">
+                        <ticketSide>FRONT_AND_BACK</ticketSide>
+                        <ticketData>
+                            <fieldData fieldId="800000000000106772">xxxxxxxxxxxxxxxxxxxxxxxxx</fieldData>
+                            <fieldData fieldId="11180423053115466">V_SB_AVDN_0231658_VF20210601_7BAVT15_0_7836331_VU2</fieldData>
+                            <fieldData fieldId="800000000000106605">xxxxxxxxxxxxxxx</fieldData>
+                            <fieldData fieldId="800000000000106653">xxxxxxxxxxxx</fieldData>
+                            <fieldData fieldId="800000000000106662">10 COSTAUD</fieldData>
+                            <fieldData fieldId="800000000000106600">xxxxxxxxxx</fieldData>
+                            <fieldData fieldId="800000000000106664">xxxxxxx</fieldData>
+                            <fieldData fieldId="11150930081108344">886944675388</fieldData>
+                        </ticketData>
+                    </sku>
+                    <sku id="9-9">
+                        <ticketSide>FRONT_AND_BACK</ticketSide>
+                        <ticketData>
+                            <fieldData fieldId="800000000000106772">114-CARE-BUNDLE-POXXXXXXX</fieldData>
+                            <fieldData fieldId="11180423053115466">V_SB_AVDN_0231658_VF20210601_7BAVT15_0_7836331_VU2</fieldData>
+                            <fieldData fieldId="800000000000106605">26-MATLDESC1XXX</fieldData>
+                            <fieldData fieldId="800000000000106653">58-PRINT-SIZ</fieldData>
+                            <fieldData fieldId="800000000000106662">10 COSTAUD</fieldData>
+                            <fieldData fieldId="800000000000106600">21-STYL-CO</fieldData>
+                            <fieldData fieldId="800000000000106664">70-MSRP</fieldData>
+                            <fieldData fieldId="11150930081108344">886944675463</fieldData>
+                        </ticketData>
+                    </sku>
+                    <sku id="10-10">
+                        <ticketSide>FRONT_AND_BACK</ticketSide>
+                        <ticketData>
+                            <fieldData fieldId="800000000000106772">MRY</fieldData>
+                            <fieldData fieldId="11180423053115466">V_SB_AVDN_0231658_VF20210601_7BAVT15_0_7836331_VU2</fieldData>
+                            <fieldData fieldId="800000000000106653">MRY</fieldData>
+                            <fieldData fieldId="800000000000106662">10 COSTAUD</fieldData>
+                            <fieldData fieldId="800000000000106600">MRY</fieldData>
+                            <fieldData fieldId="800000000000106664">MRY</fieldData>
+                            <fieldData fieldId="11150930081108344">886944675388</fieldData>
+                        </ticketData>
+                    </sku>
+                </skuSet>
+            </item>
+        </ticketProject>
+    </orderDetails>
+</processOrderRequest>
